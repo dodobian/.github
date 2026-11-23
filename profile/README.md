@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dodobian/dodobian/main/brand/png/emblem-128.png" width="128" alt="Dodobian dodo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dodobian/dodobian/main/brand/svg/wordmark-dark.svg">
+    <img src="https://raw.githubusercontent.com/dodobian/dodobian/main/brand/svg/wordmark-light.svg" alt="Dodobian" width="440">
+  </picture>
 </p>
 
-# Dodobian
+<p align="center"><b>A classic desktop, grown on Debian.</b></p>
 
-**A classic desktop, grown on Debian.** GNOME 2 in spirit, mouse first, floating windows,
-with the calm polish of a modern desktop: rounded windows, soft shadows, a little motion.
-
-Labwc and Waybar on Debian, with our own packages and a small patch stack for Labwc on top.
-The mascot is the dodo, a bird that lived only on Mauritius.
+GNOME 2 in spirit, mouse first, floating windows, with the calm polish of a modern desktop:
+rounded windows, soft shadows, a little motion. Labwc and Waybar on Debian, with our own packages
+and a small patch stack for Labwc on top. The mascot is the dodo, a bird that lived only on Mauritius.
 
 **Status:** early prototype. Nothing is ready to install yet.
 
